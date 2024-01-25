@@ -1,0 +1,36 @@
+Clases de Fondo para Encabezados (<thead>):
+table-primary - Azul
+table-secondary - Gris oscuro
+table-success - Verde
+table-danger - Rojo
+table-warning - Amarillo
+table-info - Celeste
+table-light - Gris claro
+table-dark - Gris oscuro
+Clases de Fondo para Filas (<tr>):
+table-primary - Azul
+table-secondary - Gris oscuro
+table-success - Verde
+table-danger - Rojo
+table-warning - Amarillo
+table-info - Celeste
+table-light - Gris claro
+table-dark - Gris oscuro
+Clases de Texto para Encabezados (<th>):
+thead-primary - Azul
+thead-secondary - Gris oscuro
+thead-success - Verde
+thead-danger - Rojo
+thead-warning - Amarillo
+thead-info - Celeste
+thead-light - Gris claro
+thead-dark - Gris oscuro
+Clases de Texto para Filas (<tr>):
+table-primary - Azul
+table-secondary - Gris oscuro
+table-success - Verde
+table-danger - Rojo
+table-warning - Amarillo
+table-info - Celeste
+table-light - Gris claro
+table-dark - Gris oscuro
